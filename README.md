@@ -1,0 +1,16 @@
+<h1>👋 Hi, I’m Mickie.</h1>
+<br>
+<h3>I’m interested in Frontend Web Developer</h3>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MickieProjects&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
+<h1>Skills</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github)](https://skillicons.dev)
+
+
+<h1>Other Skills</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,blender)](https://skillicons.dev)
+
+<h3>📫 How to reach me email : n.khathathon@gmail.com </h3>
