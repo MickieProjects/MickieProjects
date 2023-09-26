@@ -19,4 +19,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,blender)](https://skillicons.dev)
 
-📫 How to reach me email : n.khathathon@gmail.com
+📫<b> How to reach me email : </b> n.khathathon@gmail.com
