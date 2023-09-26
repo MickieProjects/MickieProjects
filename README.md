@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Mickie.</h1>
 <br>
 <h3>I’m interested in Frontend Web Developer</h3>
-<h6>I started learning to code when I was 19 years old because I wanted to make my own video games. Over time, I have gained a wealth of experience designing and developing mobile and web applications.</h6>
+<p><b>I started learning to code when I was 19 years old because I wanted to make my own video games. Over time, I have gained a wealth of experience designing and developing mobile and web applications.</b>b</p>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MickieProjects&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
