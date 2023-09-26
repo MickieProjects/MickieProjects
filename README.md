@@ -7,6 +7,10 @@
 <h1>Skills</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github)](https://skillicons.dev)
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickieProjects&langs_count=8)
 
 
 <h1>Other Skills</h1>
