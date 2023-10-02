@@ -11,8 +11,7 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickieProjects&langs_count=8)
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickieProjects&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Other Skills
 
