@@ -9,8 +9,8 @@
 # 👋 Hi, I’m Mickie. 
 <br>
 
-
-### I’m interested in Frontend Web Developer 🧑‍💻 
+### I’m interested in Frontend Web Developer
+#### 🧑‍💻 • Just documenting my coding journey
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MickieProjects&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
